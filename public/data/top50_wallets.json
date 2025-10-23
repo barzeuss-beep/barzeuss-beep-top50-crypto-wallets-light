@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"MetaMask",
+    "type":"Hot (Browser + Mobile)",
+    "chains":"Ethereum|Polygon|Arbitrum|Optimism",
+    "bonus_has": false,
+    "affiliate_url":"https://metamask.io",
+    "rating":4.6
+  },
+  {
+    "id":2,
+    "name":"Phantom",
+    "type":"Hot (Mobile + Extension)",
+    "chains":"Solana|Ethereum (bridges)",
+    "bonus_has": true,
+    "affiliate_url":"https://phantom.app",
+    "rating":4.5
+  }
+]
